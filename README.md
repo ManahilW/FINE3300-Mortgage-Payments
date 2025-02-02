@@ -3,7 +3,7 @@
 Link to GitHub Manahil: https://github.com/ManahilW/FINE3300-Mortgage-Payments <br>
 Link to GitHub Jasleen: https://github.com/JasleenDhir/FINE3300-Mortgage-Payments
 
-The primary goal of designing this code is to help users understand the differences in payment frequencies for fixed-rate mortgages. This applies both to first-time home buyers and to those whose mortgages are up for renewal. The main users of this code are potential and current homeowners or financial planners.
+The primary goal of designing this code is to help users understand the differences in payment frequencies for fixed-rate mortgages for a given principal amount, interest rate, and amortization period. This applies both to first-time home buyers and to those whose mortgages are up for renewal. The main users of this code are potential and current homeowners or financial planners.
 
 This Mortgage Calculator program is implemented through a Python class named “Mortgage”. It engages users by prompting them to provide key financial figures: the principal amount of the mortgage, the annual interest rate, and the length of time over which the loan is to be amortized. These inputs are critical for determining the monthly, semi-monthly, bi-weekly, weekly, rapid bi-weekly, and rapid weekly mortgage payments.
 
